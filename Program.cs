@@ -12,6 +12,7 @@
             Console.WriteLine("Branch2 nin branch1den farkı bu satır olacak.");
             Console.WriteLine("Branch1 oluşturuldu ve bu değişiklik branch1 in içine yazıldı");
             Console.WriteLine("işte bir proje daha ");
+            Console.WriteLine("PR DENEME ");
         }
     }
 }
