@@ -13,6 +13,7 @@
             Console.WriteLine("Branch1 oluşturuldu ve bu değişiklik branch1 in içine yazıldı");
             Console.WriteLine("işte bir proje daha ");
             Console.WriteLine("PR DENEME ");
+            Console.WindowHeight += 10;
         }
     }
 }
